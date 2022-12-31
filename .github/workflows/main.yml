@@ -20,4 +20,3 @@ jobs:
           server: ftp://ftp.careerbuddy.ro/
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          local-dir: GitTest/
